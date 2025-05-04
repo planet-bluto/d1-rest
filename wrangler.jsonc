@@ -16,7 +16,7 @@
     ],
     "secrets_store_secrets": [
         {
-            "store_id": "ni1Q9IUnamUIV3YXP5CErT6gDg4fZhjfEydgyx3fsB4iNvi7oKlz0CJFyrelEoBP4go6lJiZJNFbAJcbVmr8MxKcIquvurRhtY4",
+            "store_id": "a0cd6b4d8ea74ed7a20e16d5ec09e1d4",
             "binding": "SECRET",
             "secret_name": "testing_secret"
         }
